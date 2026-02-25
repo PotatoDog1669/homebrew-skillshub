@@ -1,10 +1,10 @@
 class SkillsHub < Formula
   desc "Unify your AI toolbox for managing and syncing agent skills"
   homepage "https://github.com/PotatoDog1669/skills-hub"
-  url "https://registry.npmjs.org/@potatodog1669/skills-hub/-/skills-hub-0.1.14.tgz"
-  sha256 "5a870cd0f4bc7c4461bef0a1af6a8d5f661658c6a6f9814fc3c630802dec5332"
+  url "https://registry.npmjs.org/@potatodog1669/skills-hub/-/skills-hub-0.1.17.tgz"
+  sha256 "fbbbc78ca6d0e8453f1659640932a4fd968e98538ee11efbbd449f3e6e71bde1"
   license "MIT"
-  version "0.1.14"
+  version "0.1.17"
 
   depends_on "node"
 
