@@ -1,6 +1,6 @@
 cask "skills-hub" do
-  version "0.1.19"
-  sha256 arm: "999b2b49a14a20af7ea308bc4e6ca235e4ed398ac2488b8ec0375497b6af6807", intel: "36df1d1039f928e9584597c4e9fd1983630421e1af8d177b47074349cbb7bf7f"
+  version "0.1.22"
+  sha256 arm: "2f3b55d606c99aa8af325fa52a1f9b1d33f1997664d781bc6522c5ea51a5ed1c", intel: "c442c96318fd32a115e61f06623e90551d66c2914ee03c3407290b478038c548"
 
   arch arm: "aarch64", intel: "x64"
 
